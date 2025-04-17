@@ -6,7 +6,7 @@
     "email": "candace.fisher.mba@gmail.com",
     "phone": "404-861-6018",
     "website": "https://ceefish.github.io",
-    "summary": "Software Engineer with multiple years of experience in Ruby on Rails, SQL, JavaScript, HTML, and CSS.",
+    "summary": "Software Engineer with years of experience in Ruby on Rails, SQL, JavaScript, HTML, and CSS.",
     "location": { "address": "", "postalCode": "", "city": "Atlanta", "state": "Georgia", "countryCode": "USA" },
     "profiles": [
       { "network": "github", "username": "ceefish", "url": "http://github.com/ceefish" },
@@ -14,6 +14,12 @@
       { "network": "twitter", "username": "candi_fish", "url": "http://twitter.com/candi_fish" },
     ]
   },
+  "interests": [
+    { "name": "Software Engineering" },
+    { "name": "Data Analysis" },
+    { "name": "Traveling" },
+    { "name": "Volunteering at Local Middle School" }
+  ],
   "skills": [
     {
       "name": "Languages and Frameworks",
