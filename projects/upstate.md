@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/upstate.png
 title: "UpState"
 date: 2022-10-20
 published: true
